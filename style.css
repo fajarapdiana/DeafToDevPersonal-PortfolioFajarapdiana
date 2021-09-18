@@ -267,10 +267,7 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
                         }
                         .education-card{
                             flex: 0 1 97%;
-                        }
-                        .social-media-container{
-                            flex: 100%;
-                        }
+                        
 
                    }
 
