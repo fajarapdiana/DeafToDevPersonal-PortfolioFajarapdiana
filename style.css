@@ -132,7 +132,7 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
             color:#000000;
         }
 
-        .description{line-height: 1.5;
+.description{line-height: 1.5;{
 
         }
 
@@ -140,8 +140,8 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
             display: flex;
             flex-wrap: wrap;
             margin-bottom: 24px; 
-        
-
+ }
+            
             .skill-card {
                 object-position: center;
                 flex: 0 1 20%;
@@ -149,7 +149,7 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
                 margin: 30px 0.5%;
                 border-radius: 15px;
                 box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3)}
-
+}
              .skill-picture {
                     height: auto;
                     width: 100%;
@@ -218,7 +218,7 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
 
                    footer {
                     text-align: center;
-                    padding: 0%;;
+                    padding: 32px;;
                     background-color: rgb(0, 0, 0);
                     color: rgb(255, 255, 255);
                    }
