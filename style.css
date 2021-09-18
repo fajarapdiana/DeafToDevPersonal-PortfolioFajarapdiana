@@ -136,6 +136,9 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
         .description{line-height: 5;
 
         }
+.id="skill"{
+ text-align="left"
+}
 
         .skill-container {
             display: flex;
