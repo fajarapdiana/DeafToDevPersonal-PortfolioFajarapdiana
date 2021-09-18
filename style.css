@@ -228,7 +228,16 @@ url('https://fonts.googleapis.com/css2?family=Roboto&');
                     color: rgb(255, 255, 255);
                    }
 
-                   
+                   @media screen and (max-width: 700px) {
+                               #profile-container {
+                                padding-top: 32px;
+                            flex-direction: column;
+                                      }
+                            #bio {
+                         margin: 16px;
+                          padding: 16px 0;
+                             }
+
                   
                    
                    
